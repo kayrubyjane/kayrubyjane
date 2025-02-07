@@ -6,7 +6,7 @@ I'm a passionate developer who has loved coding since middle school but became t
 💻 **Specialties:**  
 - Mainly focused on **Web Development**, but I can dive into **Mobile Development** too!  
 - I enjoy **Frontend Development** more, but honestly, I'll take on any coding challenge! 😆
-- Currently learning ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) and ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- Currently learning ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) and ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
 
 🌍 **Languages I Speak:**  
 - 🇮🇩 Indonesian  
