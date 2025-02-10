@@ -30,7 +30,7 @@ I'm a passionate developer who has loved coding since middle school but became t
 
 ## 📊 My GitHub Contributions in 2025
 
-[![Arief Febrian's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kayrubyjane&theme=github-light&custom_title=Contributions%20in%202025)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Arief Febrian's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kayrubyjane&theme=github-dark&custom_title=Contributions%20in%202025)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect!
 - 📷 Instagram: [@osk.rka_](#)  
