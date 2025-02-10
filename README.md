@@ -28,6 +28,13 @@ I'm a passionate developer who has loved coding since middle school but became t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayrubyjane&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Contributions%20in%202025" alt="GitHub Activity Graph"/>
+<img width="49%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayrubyjane&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kayrubyjane&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
 ## 📫 Let's Connect!
 - 📷 Instagram: [@osk.rka_](#)  
 - 💼 LinkedIn: [Arief Febrian](#)  
