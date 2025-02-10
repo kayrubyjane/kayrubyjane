@@ -28,6 +28,10 @@ I'm a passionate developer who has loved coding since middle school but became t
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 My GitHub Contributions in 2025
+
+[![Arief Febrian's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kayrubyjane&theme=github-light&custom_title=Contributions%20in%202025)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Let's Connect!
 - 📷 Instagram: [@osk.rka_](#)  
 - 💼 LinkedIn: [Arief Febrian](#)  
