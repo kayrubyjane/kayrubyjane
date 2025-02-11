@@ -19,6 +19,7 @@ I'm a passionate developer who has loved coding since middle school but became t
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-353D85?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🛢 Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
