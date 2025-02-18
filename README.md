@@ -44,3 +44,5 @@ I'm a passionate developer who has loved coding since middle school but became t
 ---
 🔥 **Fun Fact**: I mostly use **JavaScript** nowadays, but **PHP** will always have a place in my heart! ❤️  
 If there's a coding challenge, **hit me up!** 🎯
+
+### Progress happens bit by bit. It’s easy to get lost in the big picture, but every line of code you write adds up! Keep going at your own pace, and you'll see the rewards soon.
