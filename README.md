@@ -40,7 +40,7 @@ I'm a passionate developer who has loved coding since middle school but became t
 ## 📫 Let's Connect!
 - <a href="https://www.instagram.com/osk.rka_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 - <a href="https://www.linkedin.com/in/arief-febrian-b9155531b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- 🌍 Website: [Coming Soon](#)
+- Website: [Coming Soon](#)
 
 ---
 🔥 **Fun Fact**: I mostly use **JavaScript** nowadays, but **PHP** will always have a place in my heart! ❤️  
