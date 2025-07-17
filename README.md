@@ -17,7 +17,7 @@ Currently, I work at **PT Yudhistira Ghalia Indonesia** as an **IT Programmer** 
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-0ec4e8?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -30,11 +30,21 @@ Currently, I work at **PT Yudhistira Ghalia Indonesia** as an **IT Programmer** 
 ![Express](https://img.shields.io/badge/-Express-f3f3f3?style=for-the-badge&logo=express&logoColor=black)
 ![Sanity](https://img.shields.io/badge/-Sanity-cc190e?style=for-the-badge&logo=sanity&logoColor=white)
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP My Admin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 🛠 I regularly work with:
 - **Google Cloud Run**
@@ -58,8 +68,7 @@ Currently, I work at **PT Yudhistira Ghalia Indonesia** as an **IT Programmer** 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osk.rka_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-febrian-b9155531b)
-
-🌐 Website: **Coming Soon**
+[![Website](https://img.shields.io/badge/-Website-25D366?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ---
 
